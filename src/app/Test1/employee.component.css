@@ -1,0 +1,116 @@
+.row-movies{
+  background-color: rgba(128, 241, 176, 0.3);
+  padding: 10px 32px; 
+ }
+
+td{
+ font-size: 1.1em;
+}
+
+th{
+  font-size: 1.5em;
+ }
+
+table>tbody>tr:hover{
+ background-color: rgb(195, 241, 86);
+}
+
+td > a{
+ color: #f51c47;
+}
+
+td > a:hover{
+
+ text-decoration: none;
+ color:  #b87803;
+}
+
+hr{
+ border-color: rgb(6, 248, 196);
+}
+
+.movielist{
+font-size: 1.4em;
+}
+
+.heading{
+ font-family: 'Fjalla One' , sans-serif;
+ margin-left: 50px;
+}
+
+.totals{
+
+ display: inline;
+ font-family: 'Fjalla One' , sans-serif;
+ color: rgb(15, 27, 3);
+ margin: 2px;
+
+}
+
+a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 16px;
+}
+
+a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.previous {
+  background-color: #f1f1f1;
+  color: black;
+}
+
+.next {
+  background-color: rgb(69, 240, 160);
+  color: white;
+}
+
+.round {
+  border-radius: 50%;
+}
+
+.navigate{
+
+  width: 240px;
+  margin:0 auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

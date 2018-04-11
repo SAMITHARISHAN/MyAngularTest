@@ -1,0 +1,28 @@
+/* You can add global styles to this file, and also import other style files */
+/* You can add global styles to this file, and also import other style files */
+body{
+    font-family: 'Jaldi', sans-serif;
+    background-image: url("./assets/img/run.jpg");
+    
+    background-size: 2000px 600px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.layer{
+    background: rgb(124, 229, 243);
+    background: linear-gradient(135deg, rgba(100,185,196,0.2) 0%,rgba(6,24,91,0.8) 100%);
+    min-height: 100px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+}
+
+.app-row{
+
+    background-color: #fff;
+}
+
+
+
